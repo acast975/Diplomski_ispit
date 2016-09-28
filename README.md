@@ -6,7 +6,7 @@ Vrši se analiza za skupove podataka:
 - Cardiotocography Data Set [3]
 - Arrhythmia Data Set [4]
 
-,a okviru foldera "Data" smešteni su ovi podaci.
+,a okviru foldera "Data" smešteni su ovi podaci. Breast Cancer Wisconsin skup podataka smešten je u okviru dva .csv fajla: BreastCancerWisconsin_DataSet.csv (sadrži sve uzorke podataka) i BreastCancerWisconsin_DataSet_NoMissVal.csv (iz koga su isključeni uzorci sa izgubljenim vrednostima).
 
 Podaci su preuzeti sa sa sajta UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Reference podataka su:
 

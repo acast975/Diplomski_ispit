@@ -24,7 +24,7 @@ Podaci su preuzeti sa sa sajta UCI Machine Learning Repository [http://archive.i
     and Computer Science, 1998
 
 
-Kod analize za svaki skup podataka smešten je u okviru odgovarajuće python skripte. Samo je analiza nad Cardiotocography skupom podataka smeštena u okviru dve skripte, a to je urađeno iz razloga zato što se u ovome skupu podataka vrši analiza za dve različite response vrednosti. Dakle, kod analize podataka je smešten u sledeće pet python skripte:
+Kod analize za svaki skup podataka smešten je u okviru odgovarajuće python skripte. Samo je analiza nad Cardiotocography skupom podataka smeštena u okviru dve skripte, a to je urađeno iz razloga zato što se u ovome skupu podataka vrši analiza za dve različite response vrednosti. Dakle, kod analize podataka smešten je u sledeće pet python skripte:
 
 - Arrhythmia.py
 - BreastCancer.py
